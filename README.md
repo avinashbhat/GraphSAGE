@@ -1,5 +1,7 @@
 ## GraphSage: Representation Learning on Large Graphs
 
+> This code is migrated to Tensorflow 2.6.0, and any dependency issues with NetworkX have been fixed. The current NetworkX version is 2.6.3.
+
 #### Authors: [William L. Hamilton](http://stanford.edu/~wleif) (wleif@stanford.edu), [Rex Ying](http://joy-of-thinking.weebly.com/) (rexying@stanford.edu)
 #### [Project Website](http://snap.stanford.edu/graphsage/)
 
